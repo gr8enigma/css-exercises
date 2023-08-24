@@ -1,0 +1,15 @@
+.me-one,
+.me-too {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+
+.me-one {
+    /* font-weight: bold; */
+    color: rgb(255, 255, 255);
+    background-color: hsl(0, 0%, 0%);
+}
+
+.me-too {
+    background: hsl(59, 100%, 50%);
+}
